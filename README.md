@@ -19,6 +19,6 @@ The closest system like this in real life is how laws are created and modified.
 This is in the very early stages of development. As the author of this project, my goal is to continually enhance this based on my experiences.
 
 ## Inspiration
-[OpenAI Model Spec](https://model-spec.openai.com/2025-09-12.html)
-[The New Code - Sean Grove, OpenAI](https://www.youtube.com/watch?v=8rABwKRsec4)
-[GitHub Spark](https://github.com/features/spark)
+- [OpenAI Model Spec](https://model-spec.openai.com/2025-09-12.html)
+- [The New Code - Sean Grove, OpenAI](https://www.youtube.com/watch?v=8rABwKRsec4)
+- [GitHub Spark](https://github.com/features/spark)
